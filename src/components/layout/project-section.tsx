@@ -33,7 +33,10 @@ const slideUp: Variants = {
 
 export const ProjectSection = () => {
   return (
-    <section id="projects" className="flex w-full flex-col gap-16 py-18">
+    <section
+      id="projects"
+      className="flex min-h-screen w-full flex-col gap-16 py-18"
+    >
       <motion.h2
         variants={slideUp}
         initial="hidden"

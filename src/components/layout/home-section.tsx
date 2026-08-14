@@ -34,7 +34,7 @@ export const HomeSection = () => {
             className="absolute inset-0 z-20 scale-[116%] rounded-full duration-75 group-hover:animate-spin"
           ></div>
           <Image
-            className="z-40 rounded-full"
+            className="z-40 rounded-full object-cover"
             fill
             src={PROFILE_IMG_URL}
             alt="profile"

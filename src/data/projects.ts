@@ -8,4 +8,13 @@ export const PROJECTS = [
     preview_url: 'https://todoai-app-ham.vercel.app',
     github_url: 'https://github.com/hamgeek/todoai-app',
   },
+  {
+    title: 'Inventory Management System',
+    description:
+      'An Inventory Management System (IMS) used to manage users, product categories, products, and stock change history.',
+    tags: ['Typescript', 'Hono', 'Next.js', 'Prisma ORM'],
+    thumb_url: 'https://i.postimg.cc/TYTwn9L0/ham-ims-app.png',
+    preview_url: 'https://ham-ims-app.vercel.app',
+    github_url: 'https://github.com/hamgeek/ims-backend',
+  },
 ];

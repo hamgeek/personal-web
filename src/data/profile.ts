@@ -1,5 +1,5 @@
 export const PROFILE_IMG_URL =
-  'https://assets.ham.web.id/profile/profile-image.jpg';
+  'https://i.postimg.cc/6pwxf3XW/ham-profile.jpg';
 
 export const GREETING_NAME = 'Ilham';
 
